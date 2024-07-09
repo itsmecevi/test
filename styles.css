@@ -1,0 +1,93 @@
+
+
+
+* Data Visual for Data Scientist:
+
+1. Code (Python or R)
+2. Code Free (Power BI, Tableau, Google Studio, etc)
+3. Python library (Matplotlib, Seaborn, Plotly, Bokeh, Altair, ggplot, Holoviews)
+
+
+* Main Goals: To make the other people understand!
+
+
+* First Main goals, then technical things (software, dataset, color, etc)
+
+* Tabular vs Non-Tabular (Structured vs Unstructured Data)
+
+* KISS (Keep It So Simple)
+
+* Chart: One visual (bar chart, line chart, etc)
+
+* Dashboard: Combination of Chart
+
+* KPI (Key Performance Indicator): Target
+
+* Ad hoc: Custom visual, custom chart, custom reporting
+
+* 
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 2em;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
